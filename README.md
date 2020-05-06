@@ -47,3 +47,5 @@ Usuário administrador padrão: admin@fastfeet.com / 123456
 - 🔁 **Redux** - Biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo.
 - 🔂 **Redux Saga** - Biblioteca Javascript que torna os efeitos colaterais do aplicativo mais faceis de gerenciar.
 <hr>
+
+![Web](https://github.com/Gabrielpdev/GoBarber/blob/master/img/web.gif)
