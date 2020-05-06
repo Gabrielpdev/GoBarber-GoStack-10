@@ -19,7 +19,7 @@ A aplicação em **React Native** é para o cliente. Podendo selecionar um prest
 2. ``cd GoBarber``
 
 ### :rocket: Iniciando com o backend
-1. ``cd Back-end``
+1. ``cd back-end``
 2. ``yarn``
 3. ``Criar o arquivo .env com base no .env.example``
 4. ``yarn sequelize db:migrate``
@@ -27,7 +27,7 @@ A aplicação em **React Native** é para o cliente. Podendo selecionar um prest
 6. ``yarn dev``
 
 ### 💻 Iniciando com o Front-end 
-1. ``cd Front-end``
+1. ``cd front-end``
 2. ``yarn``
 3. ``yarn start``
 
