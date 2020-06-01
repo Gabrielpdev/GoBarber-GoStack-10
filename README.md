@@ -32,7 +32,6 @@ A aplicação em **React Native** é para o cliente. Podendo selecionar um prest
 2. ``yarn``
 3. ``yarn start``
 
-Usuário administrador padrão: admin@fastfeet.com / 123456
 
 ### 📱Iniciando com o Mobile (Apenas Android)
 1. ``cd mobile``
